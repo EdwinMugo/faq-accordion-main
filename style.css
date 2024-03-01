@@ -39,7 +39,7 @@ img {
     display: block;
 }
 
-button{
+.accordion-button {
     cursor: pointer;
     background-color: transparent;
     width: 100%;
@@ -53,7 +53,7 @@ button{
     gap: 1rem;
     border:0;
 }
-button:hover{
+.accordion-button:hover{
     color: purple;
 }
 
