@@ -59,7 +59,7 @@ button:hover{
 
 .container{
     background-color: var(--white);
-    max-width:850px;
+    max-width:700px;
     padding: 1.6rem;
     margin: 1rem;
     border-radius: 1rem;
